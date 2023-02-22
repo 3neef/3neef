@@ -12,3 +12,5 @@ I'm Mazin from Sudan, a software engineer mainly a web devloper. currently worki
 * 🧩 REST API 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3neef&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Wait for it
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3neef&theme=dark&background=000000)](https://git.io/streak-stats)
