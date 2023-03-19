@@ -1,13 +1,13 @@
 ### Hi there, its Mazin 👋👨🏽‍💻
 
 # Mazin Hafiz
-I'm Mazin from Sudan, a software engineer mainly a web devloper. currently working with Laravel and Vue js, as well as working with LaravelLivewire. 
+I'm Mazin from Sudan, a software engineer mainly a web devloper. currently working with Laravel and Spring boot. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3neef&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills and Experience
-* ⚛ Node
+* ⚛ Spring boot
 * 💻 Laravel, TailwindCSS, AlpineJS
 * 🧩 REST API 
 
